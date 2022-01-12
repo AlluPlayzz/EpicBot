@@ -1,0 +1,2 @@
+# EpicBot
+A BOT IM WORKING ON
